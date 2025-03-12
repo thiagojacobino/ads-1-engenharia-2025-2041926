@@ -13,6 +13,7 @@ este é o modelo mais clássico, a base de tudo. O software passa por uma série
 ### 🌐 Espiral  
 O método de desenvolvimento de software em espiral é uma estratégia que busca aprimorar o processo de criação de software por meio de uma abordagem iterativa e incremental. Criada por Barry Boehm em 1986, essa metodologia incorpora elementos do Modelo cascata juntamente com a utilização de protótipos. O Desenvolvimento em Espiral se baseira em ciclos de atividades, sendo cada ciclo composto por quatro fases: Prototipação, Análise de Riscos, Desenvolvimento e Planejamento subsequente.
 Na minha perspectiva, a Metodologia de Desenvolvimento em Espiral destaca-se em situações em que as funcionalidades estão em fase inicial de definição, proporcionando maior valor quando o cliente ainda não possui uma visão completa do sistema que está requisitando. Nesse contexto, a necessidade de protótipos funcionais e provas de conceito torna-se crucial, oferecendo ao cliente uma visão detalhada e tangível de cada evolução do projeto, promovendo adaptações significativas a cada ciclo de desenvolvimento.
+
 ![espiral](https://github.com/user-attachments/assets/b487b814-eacd-443d-981c-03bbf9df0cdb)
 
 
@@ -52,9 +53,9 @@ O Kanban é uma metodologia de gestão visual que ajuda a organizar o fluxo de t
 3. À medida que uma tarefa é concluída, o cartão é movido para a próxima coluna.
 4. O quadro Kanban permite visualizar o status das tarefas e identificar gargalos.
 O sistema Kanban pode ser aplicado por meio de cartões de papelão, com estoques visuais, como as gôndolas de um supermercado ou através de sistemas digitais. O importante é conter informações como: o código, o nome da peça, o fornecedor, local de armazenamento, consumo etc.
-https://www.nomus.com.br/blog-industrial/wp-content/uploads/2022/10/Beneficios-do-Kanban-1.png
+
 ## 🚀 Extreme Programming (XP)  
-(Quais são os princípios do XP?)
+A metodologia Extreme Programming é sustentada por cinco valores fundamentais: comunicação, simplicidade, feedback, coragem e respeito. Esses valores guiam as práticas e interações das equipes, assegurando um processo de desenvolvimento eficaz e colaborativo.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
