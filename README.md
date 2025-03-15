@@ -54,12 +54,21 @@ O Kanban é uma metodologia de gestão visual que ajuda a organizar o fluxo de t
 4. O quadro Kanban permite visualizar o status das tarefas e identificar gargalos.
 O sistema Kanban pode ser aplicado por meio de cartões de papelão, com estoques visuais, como as gôndolas de um supermercado ou através de sistemas digitais. O importante é conter informações como: o código, o nome da peça, o fornecedor, local de armazenamento, consumo etc.
 
+![transferir](https://github.com/user-attachments/assets/df62a796-01e4-4102-9d46-f8ab15fac166)
+
 ## 🚀 Extreme Programming (XP)  
-A metodologia Extreme Programming é sustentada por cinco valores fundamentais: comunicação, simplicidade, feedback, coragem e respeito. Esses valores guiam as práticas e interações das equipes, assegurando um processo de desenvolvimento eficaz e colaborativo.
+Extreme Programming (XP) é uma metodologia de desenvolvimento de software ágil que visa criar software de maior qualidade. É uma das metodologias ágeis mais específicas quanto às práticas de engenharia para desenvolvimento de software. 
+1. Desenvolvimento iterativo e incremental.
+2. Feedback constante dos clientes e da equipe.
+3. Simplicidade no código e nas soluções.
+4. Programação em par, onde dois desenvolvedores trabalham juntos no mesmo código.
+5. Testes automatizados desde o início do projeto.
+
+![extreme](https://github.com/user-attachments/assets/ff865eee-ff61-4d83-bbef-4e4060b615ec)
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
+GitHub e GitLab são plataformas de controle de versão e colaboração de código que facilitam o gerenciamento de projetos de software. Elas permitem que os desenvolvedores compartilhem, revisem e colaborem em código de forma eficiente. Ambas oferecem recursos como repositórios Git, controle de versões, integração contínua e gerenciamento de problemas (issues), além de facilitar o acompanhamento do progresso do projeto.
 
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+Jira e Trello são ferramentas amplamente utilizadas para a organização e acompanhamento de tarefas em projetos de software. O Jira é mais robusto e voltado para equipes que adotam metodologias ágeis, oferecendo suporte a sprints, backlogs e outras funcionalidades específicas do Scrum e Kanban. Já o Trello é uma ferramenta mais simples e visual, baseada em quadros Kanban, ideal para equipes menores ou para projetos de menor complexidade. Ambos ajudam a organizar, priorizar e monitorar o progresso das atividades de desenvolvimento.
