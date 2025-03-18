@@ -8,6 +8,7 @@ A escolha da metodologia depende de várias questões, desde a necessidade do ne
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
 este é o modelo mais clássico, a base de tudo. O software passa por uma série de etapas sequenciais até ficar pronto. A validação ocorre somente no final. Ou seja, se alguma coisa sai errada no meio do caminho, o erro persiste até o final.
+
 ![cascata](https://github.com/user-attachments/assets/afd952f2-c33d-4264-a8a7-b83b0a750f61)
 
 ### 🌐 Espiral  
